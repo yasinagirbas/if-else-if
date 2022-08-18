@@ -19,6 +19,7 @@
             {
                 Console.WriteLine("iyi geceler");
             }
+            
 
             string sonuc = time <= 18 ? "iyi günler" : "iyi geceler";
             Console.WriteLine(sonuc);
